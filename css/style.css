@@ -356,6 +356,9 @@ hr{
     .testimonial-col{
         flex-basis: 100%;
     }
+    .footer-row p{
+        margin: 5px;
+    }
 }
 @media  screen and ( max-width: 320px) {
     .banner-text h1{
